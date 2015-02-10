@@ -1,7 +1,7 @@
 {
-    "name":"Tag Entertainment",
-    "thumbnail":"tagentertainment.png",
-    "screenshot":"tagentertainment.png",
+    "name":"Pro Build",
+    "thumbnail":"pro-build.png",
+    "screenshot":"pro-build.png",
     "templateType":"standard",
     "pageTypes":["home"],
     "tags": {
@@ -13,12 +13,12 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#c90c10",
-            "color3":"#c90c10",
+            "color2":"#ffb700",
+            "color3":"#ffb700",
             "color4":"#262626",
             "color5":"#7c7c7c",
             "color6":"#ffffff",
-            "color7":"#1c1f22"
+            "color7":"#242a36"
         },
         "Swatch 2": {
             "color1":"#ffffff",
@@ -58,17 +58,17 @@
         }
     },
     "fontSwatch": {
-       "title": "Merriweather",
+       "title": "Oswald & Roboto",
         "font1": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "36px",
-            "font-weight": "300",
+            "font-weight": "700",
             "line-height": "36px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "32px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "18px",
             "font-weight": "inherit",
             "line-height": "28px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "16px",
             "font-weight": "inherit",
             "line-height": "26px",
@@ -92,16 +92,16 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "14px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "15px",
             "font-weight": "500",
             "line-height": "28px",
             "color": "@color-swatch5",
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "14px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "15px",
             "font-weight": "500",
             "line-height": "28px",
             "color": "@color-swatch6",
@@ -111,8 +111,8 @@
             "background-color-hover": "darken(@color-swatch2,5%)"
         },
         "font7": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "14px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "15px",
             "font-weight": "inherit",
             "line-height": "28px",
             "color": "@color-swatch1",
@@ -121,28 +121,28 @@
             "background-color-hover": "darken(@color-swatch3,3%)"
         },
         "font8": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "38px",
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "40px",
             "font-weight": "300",
-            "line-height": "65px",
+            "line-height": "58px",
             "color": "@color-swatch1",
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "15px",
-            "font-weight": "inherit",
-            "line-height": "40px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "400",
+            "line-height": "30px",
             "color": "@color-swatch1",
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "16px",
-            "font-weight": "300",
-            "line-height": "36px",
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "24px",
+            "font-weight": "700",
+            "line-height": "38px",
             "color": "@color-swatch6",
-            "letter-spacing": "inherit"
+            "letter-spacing": "1px"
         }
     }
 }
